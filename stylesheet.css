@@ -1,0 +1,39 @@
+
+    body{
+      text-align: center;
+      background-color: orange;
+      margin-top: 3vh;
+      font-style: italic;
+    }
+
+    h1 {
+      background-color: ;
+      color: blue;
+      font-size: 25px;
+      font-family: verdana, Arial, Geneva, Arial Black;
+      font-weight: lighter;
+      border-bottom: 1px solid black;
+    }
+    p{
+      text-align: left;
+
+
+    }
+    a{
+      text-decoration: none;
+      color: black;
+    }
+    
+    a:hover{
+      text-decoration: underline;
+      color: black;
+    }
+    
+    label, input{
+      color: black;
+    }
+    input {
+      background-color: blue;
+    }
+    
+    
